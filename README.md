@@ -4,8 +4,8 @@
 - ⚡ Fun fact: I pretend to have some exotic animals, like tarantulas and snakes! 🐍
 <div align="center">
   <a href="https://github.com/rafaballerini">
-  <img height="230em" width="450em" src="https://github-readme-stats.vercel.app/api?username=rafareusz&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
-  <img height="210em" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafareusz&layout=compact&langs_count=7&theme=aura_dark"/>
+  <img height="230em" width="400em" src="https://github-readme-stats.vercel.app/api?username=rafareusz&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
+  <img height="210em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafareusz&layout=compact&langs_count=7&theme=aura_dark"/>
 </div>
 
 <div align="center">
