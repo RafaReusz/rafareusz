@@ -1,6 +1,6 @@
 ### Hi there!
 - ✏️ I'm a student of Computer Science;
-- 🌱 I’m currently learning C++;
+- 🌱 I’m currently learning Javascript;
 - ⚡ Fun fact: I pretend to have some exotic animals, like tarantulas and snakes! 🐍
 <div align="center">
   <a href="https://github.com/rafaballerini">
