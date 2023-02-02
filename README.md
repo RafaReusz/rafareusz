@@ -1,7 +1,7 @@
 ### Hi there!
 - ✏️ I'm a student of Computer Science;
 - 🌱 I’m currently learning Javascript;
-- ⚡ Fun fact: I pretend to have some exotic animals, like tarantulas and snakes! 🐍
+- ⚡ Fun fact: I intend to have some exotic animals, like tarantulas and snakes! 🐍
 <div align="center">
   <a href="https://github.com/rafaballerini">
   <img height="230em" width="400em" src="https://github-readme-stats.vercel.app/api?username=rafareusz&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
